@@ -1,6 +1,6 @@
 <h3 id="philosophy">Philosophy</h3>
 
-At 10up, we value content and the experience one will have reading it. We write CSS with this in mind and don't sacrifice our clients' most important assets over the latest, shiniest, half-supported CSS features just for the sake of using them. CSS should help enhance content, not bury it under "cool" distractions.
+At Fireant, we value content and the experience one will have reading it. We write CSS with this in mind and don't sacrifice our clients' most important assets over the latest, shiniest, half-supported CSS features just for the sake of using them. CSS should help enhance content, not bury it under "cool" distractions.
 
 Our websites are built mobile first, using performant CSS. Well structured CSS yields maintainability and better collaboration which ultimately yields better client experiences.
 
@@ -112,10 +112,12 @@ Declarations should be ordered alphabetically or by type (Positioning, Box model
 
 Sass ordering:
 
-1. @extend
-2. Regular styles (allows overriding extended styles)
-3. @include (to visually separate mixins and placeholders) and media queries
-4. Nested selectors
+1. Structure
+2. Style
+3. Typography
+4. @mixin/includes
+5. Psuedo Classes
+6. Child Selectors
 
 #### Nesting in Sass
 
