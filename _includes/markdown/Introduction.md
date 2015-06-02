@@ -1,6 +1,6 @@
 ### Audience
 
-The 10up Engineering Best Practices are not geared to teach anyone to become an engineer. Rather, they aim to illustrate how to engineer the 10up way. Therefore, these best practices are intended for capable engineers.
+The Fireant Engineering Best Practices are not geared to teach anyone to become an engineer. Rather, they aim to illustrate how to engineer the 10up way. Therefore, these best practices are intended for capable engineers.
 
 <h3 id="goal">Goal {% include Util/top %}</h3>
 
