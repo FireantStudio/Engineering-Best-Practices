@@ -1,12 +1,12 @@
-name:          10up Engineering Best Practices
-title:         10up Engineering Best Practices
-description:   Project engineering best practices used by 10up.
-url:           https://10up.github.io/Engineering-Best-Practices/
+name:          Fireant Engineering Best Practices
+title:         Fireant Engineering Best Practices
+description:   Project engineering best practices used by Fireant.
+url:           https://fireantstudio.github.io/Engineering-Best-Practices/
 author:
-  name:    10up
-  email:   sales@10up.com
-  github:  10up
-  twitter: 10up
+  name:    Fireant
+  email:   info@fireantstudio.com
+  github:  Fireant
+  twitter: Fireant
 
 markdown:      redcarpet
 permalink:     pretty
@@ -17,6 +17,6 @@ redcarpet:
 sass:
   sass_dir: _includes/_sass
 CONFIG:
-  BASE_PATH: https://10up.github.io/Engineering-Best-Practices
+  BASE_PATH: https://fireantstudio.github.io/Engineering-Best-Practices
 
   ASSET_PATH: false
